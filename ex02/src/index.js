@@ -1,5 +1,7 @@
 function main () {
 
+    //Only change code below this line
+
     // This is a single line JavaScript comment    
     // This is a single line JavaScript comment
     // This is a single line JavaScript comment
@@ -12,7 +14,8 @@ function main () {
     document.write("This is a multi-line comment!");
     document.write("This is a multi-line comment!");
     */
-
+   // Only change code above this line
+     
 
 
 }
